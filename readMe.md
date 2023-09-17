@@ -7,6 +7,8 @@ This is a product of project-based learning
 
 2.  Please run it using Solidity version "0.8.19" or lower.
 
+3.  The tutorial is from "https://www.youtube.com/watch?v=gyMwXuJrbJQ"
+
 # 總覽圖
 ![OverView](/PicInGithub/PIC.jpg)
 
